@@ -1,4 +1,4 @@
 streamlit
 pandas
 matplotlib>=3.7
-openpyx1
+openpyxl
